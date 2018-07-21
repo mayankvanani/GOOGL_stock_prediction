@@ -7,7 +7,9 @@ _(Source: Yahoo Finance)_
 
 ## Graph
 
-<img src="/graph.jpg" width="240" alt="graph">
+<img src="graph.png" width="540" alt="Original">
+
+So, here we are able to predict the nature of the graph nad that is confirmed  for the same from above.
 
 
 
