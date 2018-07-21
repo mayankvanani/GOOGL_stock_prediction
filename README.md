@@ -5,9 +5,9 @@ This dataset contains **GOOGL** stocks history of three years (2014-2015-2016). 
 
 _(Source: Yahoo Finance)_
 
-## Model-Graph
+## Graph
 
-<img src="graph.jpg" width="440" alt="original">
+<img src="/graph.jpg" width="240" alt="graph">
 
 
 
